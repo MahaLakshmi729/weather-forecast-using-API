@@ -33,7 +33,7 @@ The Weather Forecast Web App is built using the following technologies:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/weather-forecast-using-API.git
+   git clone https://github.com/MahaLakshmi729/weather-forecast-using-API.git
    ```
 
 2. **Navigate to Directory:** Change your working directory to the project folder:
